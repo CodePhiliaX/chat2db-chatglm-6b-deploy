@@ -1,5 +1,7 @@
 # chat2db-chatglm-6b-deploy
 
+Languages： English | [中文](README_CN.md)
+
 ## 📖 Introduction
 This project shows how to deploy chatglm-6b to the free cloud resources or your local machine. And it also shows how to use the chatglm-6b in chat2db client.
 
